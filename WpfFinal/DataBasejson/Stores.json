@@ -1,0 +1,26 @@
+[
+  {
+    "StoreID": 5,
+    "Mail": "yagmurnov2@gmail.com",
+    "BranchName": "Novruzoff",
+    "Password": "nov123"
+  },
+  {
+    "StoreID": 10,
+    "Mail": "yagmurnov2@gmail.com",
+    "BranchName": "Audi",
+    "Password": "audi2580"
+  },
+  {
+    "StoreID": 13,
+    "Mail": "yagmurnov2@gmail.com",
+    "BranchName": "yagmurnov",
+    "Password": "yagmur"
+  },
+  {
+    "StoreID": 2,
+    "Mail": "mqul21810@gmail.com",
+    "BranchName": "vapehezi",
+    "Password": "1212"
+  }
+]

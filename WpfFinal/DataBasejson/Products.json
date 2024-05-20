@@ -1,0 +1,114 @@
+[
+  {
+    "count": 20,
+    "Id": 11,
+    "Name": "audi front chair",
+    "Description": "front chairs for audi",
+    "StoreId": 10,
+    "Price": 600
+  },
+  {
+    "count": 19,
+    "Id": 12,
+    "Name": "car oil",
+    "Description": "premium car oil",
+    "StoreId": 10,
+    "Price": 100
+  },
+  {
+    "count": 217,
+    "Id": 3,
+    "Name": "romio",
+    "Description": "cilek",
+    "StoreId": 2,
+    "Price": 20
+  },
+  {
+    "count": 12,
+    "Id": 5,
+    "Name": "hqd12000",
+    "Description": "clear",
+    "StoreId": 2,
+    "Price": 30
+  },
+  {
+    "count": 12,
+    "Id": 6,
+    "Name": "hqd12000",
+    "Description": "watermelon",
+    "StoreId": 2,
+    "Price": 30
+  },
+  {
+    "count": 7,
+    "Id": 9,
+    "Name": "vozol",
+    "Description": "lime",
+    "StoreId": 2,
+    "Price": 25
+  },
+  {
+    "count": 140,
+    "Id": 4,
+    "Name": "vozol",
+    "Description": "watermelon ice",
+    "StoreId": 2,
+    "Price": 25
+  },
+  {
+    "count": 70,
+    "Id": 9,
+    "Name": "vozol",
+    "Description": "lime",
+    "StoreId": 2,
+    "Price": 25
+  },
+  {
+    "count": 14,
+    "Id": 10,
+    "Name": "funky",
+    "Description": "mango",
+    "StoreId": 2,
+    "Price": 23
+  },
+  {
+    "count": 14,
+    "Id": 6,
+    "Name": "hqd12000",
+    "Description": "watermelon",
+    "StoreId": 2,
+    "Price": 30
+  },
+  {
+    "count": 120,
+    "Id": 7,
+    "Name": "fofchum",
+    "Description": "white peach",
+    "StoreId": 2,
+    "Price": 22
+  },
+  {
+    "count": 15,
+    "Id": 5,
+    "Name": "hqd12000",
+    "Description": "clear",
+    "StoreId": 2,
+    "Price": 30
+  },
+  {
+    "count": 60,
+    "Id": 6,
+    "Name": "freeton15k",
+    "Description": "tropic fruits",
+    "StoreId": 2,
+    "Price": 30
+  },
+  {
+    "count": 85,
+    "Id": 8,
+    "Name": "smok",
+    "Description": "grape",
+    "StoreId": 2,
+    "Price": 25
+  }
+]
