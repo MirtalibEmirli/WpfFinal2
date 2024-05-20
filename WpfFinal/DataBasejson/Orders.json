@@ -196,5 +196,23 @@
     "storeID": 2,
     "ProductID": 10,
     "Name": "funky"
+  },
+  {
+    "Count": 1,
+    "Price": 23,
+    "selldate": "2024-05-21T01:37:30.215983+04:00",
+    "orderID": 9,
+    "storeID": 2,
+    "ProductID": 10,
+    "Name": "funky"
+  },
+  {
+    "Count": 5,
+    "Price": 125,
+    "selldate": "2024-05-21T01:37:48.8215945+04:00",
+    "orderID": 10,
+    "storeID": 2,
+    "ProductID": 9,
+    "Name": "vozol"
   }
 ]

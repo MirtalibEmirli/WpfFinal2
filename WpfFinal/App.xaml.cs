@@ -20,16 +20,19 @@ public partial class App : Application
     }
     public void RegisterViews()
     {
-        Container.RegisterSingleton<AddPage>();
-        Container.RegisterSingleton<ReportPage>();
-        Container.RegisterSingleton<ProfilPage>();
-        Container.RegisterSingleton<EditPage>();
-        Container.RegisterSingleton<AboutPage>();
-        Container.RegisterSingleton<MainPage>();
-        Container.RegisterSingleton<MyProductsPage>();
-        Container.RegisterSingleton<SellPage>();
-        Container.RegisterSingleton<SignInPage>();
-        Container.RegisterSingleton<SignupPage>();
+        Container.RegisterSingleton<AddPage>();//
+        Container.RegisterSingleton<ChangeMailPage>();//
+        Container.RegisterSingleton<ChangePassPage>();//
+        Container.RegisterSingleton<NewOrderPage>();//
+        Container.RegisterSingleton<ReportPage>();//
+        Container.RegisterSingleton<ProfilPage>();//
+        Container.RegisterSingleton<EditPage>();//
+        Container.RegisterSingleton<AboutPage>();//
+        Container.RegisterSingleton<MainPage>();//
+        Container.RegisterSingleton<MyProductsPage>();//
+        Container.RegisterSingleton<SellPage>();//
+        Container.RegisterSingleton<SignInPage>();//
+        Container.RegisterSingleton<SignupPage>();//
     }
 
 }
